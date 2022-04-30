@@ -12,7 +12,7 @@
   Minister makes the guess.</br>
 
 ### Score
-* Prince gets 1000 points and plice gets 500 points.</br>
+* Prince gets 1000 points and police gets 500 points.</br>
 * If miniter's guess was correct, miniter will get 800 points else 0.</br>
 * Theif will get 800 points if minister's guess was wrong else 0.</br>
 * This game can continue as long as everyone wants to play or winner can be declared when any player reaches 10000 points.</br>
